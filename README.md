@@ -1,4 +1,4 @@
-The #1 Telegram™ Growth Tool - 500k Telegram™ Followers
+<b>The #1 Telegram™ Growth Tool - 500k Telegram™ Followers</b>
 
 This Sensational tool will grow your Telegram followers with real humans, safely, and fast in minutes
 
