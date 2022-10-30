@@ -1,6 +1,6 @@
-<b>The #1 Telegram™ Growth Tool - 500k Telegram™ Followers</b>
+<b>The #1 Telegram™ Growth Tool - 500k Telegram™ Members</b>
 
-This Sensational tool will grow your Telegram followers with real humans, safely, and fast in minutes
+This Sensational tool will grow your Telegram members with real humans, safely, and fast in minutes
 
 <b>How does this work?</b>
 Clickbee is a crowd-sourced pool of real humans that will do the job of joining your Telegram channels, groups or bots.
