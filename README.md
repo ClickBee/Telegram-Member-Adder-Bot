@@ -5,7 +5,7 @@ This Sensational tool will grow your Telegram followers with real humans, safely
 <b>How does this work?</b>
 Clickbee is a crowd-sourced pool of real humans that will do the job of joining your Telegram channels, groups or bots.
 
-* Members Join Using an Invite Link — 100k members per day.
+* Members Join Using an Invite Link — 500k members per day.
 * Only Real Crypto Users — US, UK, India, IRAN & other countries.
 * No Drop — Leaving members are replaced with new people. (for 7 days)
 
