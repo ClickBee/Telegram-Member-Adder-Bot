@@ -15,6 +15,6 @@ Clickbee is a crowd-sourced pool of real humans that will do the job of joining 
 2. Open [ClickBeeBot](https://t.me/ClickBeeBot) inside Telegram 
 (search for “ClickBeeBot” in Telegram or click [this link](https://t.me/ClickBeeBot))
 3. Press "My Ads" and follow instructions
-(setup title, description, and cost per click)
+(setup description and cost per click)
 
 <b>Bot Link</b>: https://t.me/ClickBeeBot
